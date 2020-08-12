@@ -1,7 +1,9 @@
 #app {
   display: grid;
-  width: 826px;
-  height: 936px;
+  /* width: 826px;
+  height: 936px; */
+  width: 500px;
+  height: 650px;
 
   grid-template-rows: 1fr 1fr 3fr 1fr;
   grid-template-columns: 1fr 2fr 1fr;
